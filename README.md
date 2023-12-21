@@ -21,7 +21,7 @@ set the width to take up all the space, while remaining responsive.
 
 ### Screenshot
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](./assets/images/screenshot.png)
 
 ### Links
 
