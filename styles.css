@@ -126,7 +126,7 @@ summary {
   background-color: var(--white);
   border-radius: 12px;
   margin: 3rem 1rem;
-  max-width: 540px;
+  max-width: 600px;
 }
 
 .accordion-heading {
